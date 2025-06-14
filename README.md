@@ -59,7 +59,7 @@ Incluye:
 
 * Análisis exploratorio
 
-* Métpodología
+* Métodología
 
 * Conclusiones
   
