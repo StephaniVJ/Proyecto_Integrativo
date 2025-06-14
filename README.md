@@ -7,19 +7,24 @@ Cobertura Universal de Salud (CUS).
 ---
 # 📚Estructura del repositorio
 Carpetas:
+
 1.DataFrames:[https://github.com/StephaniVJ/Proyecto_Integrativo/tree/main/DataFrames%20Generado)
       - DataFrame resultante de la clusterización de los datos 
+      
 2.Datos Camas:  [https://github.com/StephaniVJ/Proyecto_Integrativo/tree/main/Datos_Camas)
      - Archivo zip con los datos historicos(2002) de camas censables por entidad federativa 
 
 3.Datos Médico:  [https://github.com/StephaniVJ/Proyecto_Integrativo/tree/main/Datos_M%C3%A9dicos)
      - Archivo zip con los datos historicos(2002) de médicos generales, especialistas y odontólogos por entidad federativa 
+     
 4.Graficos:  [https://github.com/StephaniVJ/Proyecto_Integrativo/tree/main/Gr%C3%A1ficos)
     - Imágenes relacionadas con la implementación del método K-means: Método del codo  e índice de silueta 
     - Visualización de clusters
     - Visualización del Índice de Cobertura Hospitalaria y del Índice de Cobertura Médica por entidad federativa
+    
 5.NoteBook:[https://github.com/StephaniVJ/Proyecto_Integrativo/tree/main/Notebook)
     - Código base
+
   
     
   
