@@ -1,5 +1,5 @@
 
-# 💤 Análisis de la vulnerabilidad del sistema de salud en México: Cobertura y crecimiento poblacional**
+# Análisis de la vulnerabilidad del sistema de salud en México: Cobertura y crecimiento poblacional**
 
 Este proyecto implementa técnicas de agrupamiento (clustering)  para identificar patrones de vulnerabilidad estructural a nivel estatal partiendo de razones de salud poblacional y 
 Cobertura Universal de Salud (CUS).
