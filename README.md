@@ -76,7 +76,7 @@ Instala las dependencias con:
 pip install -r requirements.txt
 
 # Puedes ejecutar el proyecto clonando este repositorio y abriendo el notebooks del código base. Tambien deberas descargar los archivos zip
-correspondientes al histórico de datos de camas y médicos:
+# correspondientes al histórico de datos de camas y médicos:
 git clone (https://github.com/StephaniVJ/Proyecto_Integrativo)
 cd Proyecto_Integrativo/Notebook
 jupyter notebook Proyecto_Integrativo_Sistema de Salud_Vulnerabilidad_StephaniVJ.ipynb # Código base
